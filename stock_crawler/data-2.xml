@@ -1,0 +1,9 @@
+<params>
+  <url>https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY</url>
+  <excelname>鴻海</excelname>
+  <startYear>2020</startYear>
+  <startMonth>01</startMonth>
+  <endYear>2023</endYear>
+  <endMonth>06</endMonth>
+  <stockNo>2317</stockNo>
+</params>
