@@ -1,18 +1,46 @@
 # stock_crawler
-在快節奏的股市世界中，獲取即時的股市資訊對於投資者和交易者來說至關重要。然而，手動檢查每支股票的價格和相關指標是一項耗時且繁瑣的任務。為了解決這個問題，我們推出了一款先進的程式碼，專門用於抓取每日股市數據。本文將介紹這個強大的工具，幫助您迅速獲取股市資訊並做出明智的投資決策。
+In today's fast-paced stock market environment, obtaining real-time information is crucial for investors and traders. Manual monitoring of stock prices and related indicators can be time-consuming and tedious. To address this challenge, we have developed an advanced code specifically designed to retrieve daily stock market data. This article will introduce this powerful tool, enabling you to efficiently access stock market information and make informed investment decisions.
 
-我們的程式碼使用現代化的網絡爬蟲技術，從可靠的金融數據源中獲取股市資料。它支持多個交易所，包括國際性的證券交易所，並提供各種重要數據，如股票價格、成交量、市值和相對強弱指數等。這些數據可以根據您的需求進行定制，以便您能夠專注於您感興趣的股票和指標。
+Our code utilizes cutting-edge web scraping techniques to fetch stock market data from reliable financial data sources. It supports multiple exchanges, including international stock exchanges, providing a wide range of essential data such as stock prices, trading volumes, market capitalization, and relative strength index. This customizable data retrieval process allows you to focus on specific stocks and indicators that matter to you.
 
-這個程式碼還提供了一個簡單易用的用戶界面，讓您輕鬆地設置和運行。您可以指定要追蹤的股票代碼或股票名稱，並根據自己的時間框架設定數據更新的頻率。一旦程式碼運行，它將自動從數據源中抓取最新的股市數據，並以易於閱讀的格式呈現給您。
+The code offers a user-friendly interface, simplifying the setup and execution process. You can easily specify the stock symbols or names you wish to track and set the desired frequency for data updates based on your preferred time frame. Once the code is running, it automatically retrieves the latest stock market data from the chosen data source and presents it in a clear and readable format.
 
-除了基本的股市數據，我們的程式碼還提供了一些進階功能。它可以計算股票的漲跌幅和漲跌百分比，以及其他常用的技術指標，如移動平均線、相對強弱指數和MACD等。這些指標將幫助您更好地了解股票的走勢和趨勢，從而作出更明智的投資決策。
+Our code goes beyond basic stock market data retrieval. It incorporates advanced features such as calculating stock price changes, percentage changes, and commonly used technical indicators like moving averages, relative strength index, and MACD. These additional indicators provide valuable insights into stock trends and patterns, empowering you to make more informed investment decisions.
 
-此外，我們的程式碼還具有可擴展性。您可以根據自己的需求添加自定義功能，例如報警系統，當特定股票達到預設的價格或指標水平時通知您。這對於需要追蹤多支股票並保持敏銳的投資者來說非常有用。
+We understand that every investor has unique needs. That's why our code is highly customizable and extensible. You can tailor it to your specific requirements, adding custom functionalities such as an alert system that notifies you when a particular stock reaches predefined price or indicator levels. This level of flexibility is particularly beneficial for active investors who track multiple stocks and need to stay alert.
 
-這款每日股市抓取程式碼是一個強大而靈活的工具，幫助您獲取即時的股市資訊並做出明智的投資決策。它的網絡爬蟲技術保證了資料的準確性和及時性，而且它的用戶界面簡單易用，適用於各種投資者和交易者的需求。無論您是專業的股票交易者還是對股市感興趣的新手，這款程式碼將成為您的得力助手，幫助您在股市中取得成功。
+Our code is a powerful and versatile tool, enabling you to access real-time stock market information and make well-informed investment decisions. Its utilization of web scraping technology ensures accurate and timely data retrieval, while the user-friendly interface caters to the needs of various investors and traders. Whether you are an experienced stock trader or a novice with an interest in the stock market, this code will serve as a reliable assistant in your quest for success.
 
-備註：
-請注意，本程式碼僅用於數據收集和資訊查詢，並不能替代專業的投資建議。在進行任何投資之前，請諮詢專業的金融顧問或股票經紀人，以確保您做出的決策符合您的投資目標和風險承受能力。
+Note: Please remember that this code is intended solely for data collection and information retrieval purposes and should not replace professional investment advice. Always consult with a qualified financial advisor or stockbroker before making any investment decisions to ensure they align with your investment goals and risk tolerance.
+
+How to use:
+
+1.Download the executable (exe) file and XML file.
+
+2.Open the XML file.
+
+3.Enter the correct stock code in the "stockno" field.
+
+4.Specify the desired time range for the query.
+
+5.Remember to enter the desired name for the output Excel file in the "excelname" field.
+
+6.Once you have entered the required information, save and close the XML file.
+
+7.Execute the exe file.
+
+8.Finally, you will obtain a neatly organized report in an Excel file.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
